@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Room Database Note App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="note_description">Note Description</string>
+    <string name="my_first_note">My First Note</string>
+</resources>
